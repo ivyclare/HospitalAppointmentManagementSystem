@@ -35,4 +35,5 @@ The Steps that can be taken in the Desktop application are:
 
 Some Screenshots from the Desktop App
 
-| ![day](desktop/out1.png) Doctor Logs in and Selects Appointment  | ![day](desktop/out2.png) Doctor Confrims Particular Patients Appointment |
+| ![day](desktop/out1.png) Doctor Logs in and Selects Appointment | ![day](desktop/out2.png) Doctor Confrims Particular Patients Appointment|
+|:---:|:---:|:---:|
