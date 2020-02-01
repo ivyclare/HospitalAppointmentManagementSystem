@@ -1,1 +1,1 @@
-# HospitalAppointmentManagementSystem
+# Hospital Appointment Management System
