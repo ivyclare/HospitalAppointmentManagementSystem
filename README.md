@@ -1,4 +1,4 @@
-# Hospital Appointment Management System
+# Hospital Appointment Appointment System
 
 All applications were built in Java
 
